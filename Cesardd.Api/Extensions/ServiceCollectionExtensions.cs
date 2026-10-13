@@ -14,7 +14,7 @@ namespace Cesardd.Api.Extensions
                 {
                     policy
                         .WithOrigins(
-                            "https://www.cesardd.com",
+                            "https://www.creyesdd.com",
                             "http://localhost:3000"
                         )
                         .AllowAnyHeader()
